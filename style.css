@@ -1,0 +1,16 @@
+.title {
+  position: fixed;
+  bottom: 100;
+  right: 100;
+  width: 500px;
+  border: 1px solid black;
+}
+
+.Tower{
+  border: 2px solid black
+  float: left;
+}
+
+.text {
+  position: left;
+}
